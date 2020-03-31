@@ -1,2 +1,8 @@
 node_modules
 .DS_Store
+.doc
+.docx
+.jpg
+.png
+.jpeg
+.xlsx
